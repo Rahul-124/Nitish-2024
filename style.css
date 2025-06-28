@@ -1,0 +1,23 @@
+h1{
+    color: blue;
+}
+
+h2{
+    color: red;
+    border: 20px;
+    margin: 0 0 30px;
+    padding: 0;
+    text-align: center;
+}
+
+#foo{
+    color: burlywood;
+}
+
+.baz{
+    color: black;
+}
+
+div{
+    color: brown;
+}
